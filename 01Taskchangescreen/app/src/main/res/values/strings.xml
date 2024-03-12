@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">01-Task-change-screen</string>
+    <string name="show_text">Hello in simple mobile mode</string>
+</resources>
