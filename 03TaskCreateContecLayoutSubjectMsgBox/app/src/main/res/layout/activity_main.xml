@@ -18,13 +18,13 @@ android:orientation="vertical" >
 
 <EditText
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"/>
+    android:layout_height="wrap_content"
 
-<!--android:hint="@string/to" />-->
+android:hint="Name" />
 <EditText
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"/>
-<!--android:hint="@string/subject" />-->
+    android:layout_height="wrap_content"
+    android:hint="Test here" />
 
 
 
@@ -33,11 +33,11 @@ android:orientation="vertical" >
     android:layout_width="match_parent"
     android:layout_height="0dp"
     android:layout_weight="1"
-    android:gravity="top"/>
-<!--android:hint="@string/message" />-->
+    android:gravity="top"
+android:hint="Message" />
 <Button
     android:layout_width="100dp"
     android:layout_height="wrap_content"
-    android:layout_gravity="right"/>
-<!--android:text="@string/send" />-->
+    android:layout_gravity="right"
+android:text="send" />
 </LinearLayout>
