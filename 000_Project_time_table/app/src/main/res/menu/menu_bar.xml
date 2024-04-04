@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/home"
+        />
+    <item android:title="Clock"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/timer"
+        />
+    <item android:title="Program"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/program"
+        />
+    <item android:title="Status"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/status"
+        />
+</menu>
