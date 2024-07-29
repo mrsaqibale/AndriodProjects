@@ -11,6 +11,4 @@
 
 
 # Project [Link]()
-# add tasks
-# add project 
-links are uploaded soon
+add files all 
