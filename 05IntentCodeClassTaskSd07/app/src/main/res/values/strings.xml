@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">05IntentCodeClassTaskSd07</string>
+    <string name="uname">"USERNAME"</string>
+    <string name="pass">"PASSWORD"</string>
 </resources>

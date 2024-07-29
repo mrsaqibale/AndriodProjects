@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
-        android:hint="Username"
+        android:hint="@string/uname"
         android:inputType="text" />
 
     <EditText
@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/editTextUsername"
         android:layout_margin="20dp"
-        android:hint="Email"
+        android:hint="@string/pass"
         android:inputType="textEmailAddress" />
 
     <Button
